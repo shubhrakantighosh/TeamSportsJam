@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="signin.css">
+    <link rel="stylesheet" href="signin.html">
+
+
+</head>
+<body>
+    <a href="signin.html"></a>
+    <a href="signin.css"></a>
+    <div id="x">
+        <div> <p>NEW USER</p></div>
+        <div><p>REGISTRATION</p></div>
+        
+        
+     
+    </div>
+    <div id="bigbox">
+    <div id="info">
+        <p id="matter">At Sportsjam.in, buy your favourite brand and sportsgear at great prices. Don't forget to use our welcome gift vouchers (worth Rs.2000)* for more savings!</p>
+   <p>Register online and and enjoy the following benefits:</p>
+   <li id="pointers">
+        
+    "Get Discount Vouchers, Special Promotions & Offers"   
+ </li>
+ <li  id="pointers"> 
+    Checkout faster while making your purchases
+ </li>
+ <li  id="pointers">View your Order History and track your Order Status
+</li>
+ <li  id="pointers">Make changes to your account information or password</li>
+    </div>
+    <div id="input">
+
+        <div id="subheading">
+        <p>First Name </p>
+        <p>Mobile No.</p>
+        <p>Email</p>
+        <p>Password</p>
+        <p id="pass">Confirm Password</p>
+        </div>
+        <div id="symbol"><p>*</p>
+        <p>*</p>
+        <p>*</p>
+        <p>*</p>
+    <p>*</p></div>
+        <div id="entry">
+    <form id="form">
+        <div id="box">
+    <input type="text"id="name">
+</div>
+<div id="box">
+    <input type="text" id="data2" value="91">
+    <input type="text"  id="phone">
+</div>
+<div id="box">
+    <input type="text" id="email">
+</div>
+<div id="box">
+    <input type="password" id="password">
+</div>
+<div><input type="password" id="Confirmpassword">
+
+</div>
+<div><input type="Submit" id="submit"></div>
+</div>
+</form>
+    </div>
+
+    
+</body>
+
+</html>
+
+<script>
+document.querySelector("#form").addEventListener("submit",signuppage)
+var signarr=[];
+    function signuppage(){
+        event.preventDefault();
+        var obj={
+            firstname:document.querySelector("#name").value,
+            mobile_no:document.querySelector("#phone").value,
+            email:document.querySelector("#email").value,
+            passwrd:document.querySelector("#password").value,
+            confrm:document.querySelector("#Confirmpassword").value,
+        };
+        signarr.push(obj);
+       var output= localStorage.setItem("signinprocess",JSON.stringify(signarr));
+       window.location.href=
+    }</script>
