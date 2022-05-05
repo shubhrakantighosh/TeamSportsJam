@@ -13,7 +13,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -28,7 +28,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -42,7 +42,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -56,7 +56,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -69,7 +69,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -82,7 +82,7 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
+        productPrice:"₹"+2299,
         offer:"41%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -99,7 +99,7 @@ var productArr= [
 
         productStrick:"₹17990",
 
-        productPrice:"₹12899",
+        productPrice:"₹"+12899,
         offer:"28%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -112,7 +112,7 @@ var productArr= [
 
         productStrick:"₹17990",
 
-        productPrice:"₹12899",
+        productPrice:"₹"+12899,
         offer:"28%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -125,7 +125,7 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
+        productPrice:"₹"+9299,
         offer:"22%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -140,7 +140,7 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
+        productPrice:"₹"+9299,
         offer:"22%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -154,7 +154,7 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
+        productPrice:"₹"+9299,
         offer:"22%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -168,7 +168,7 @@ var productArr= [
 
         productStrick:"₹7500",
 
-        productPrice:"₹4499",
+        productPrice:"₹"+4499,
         offer:"40%off",
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
@@ -176,561 +176,561 @@ var productArr= [
     },
 ///////////////////////////// row 5
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBGR005690.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBGR005690.jpg",
 
-    productTitle:"Carlton 701C PU Badminton Overgrip",
+//     productTitle:"Carlton 701C PU Badminton Overgrip",
 
-    productStrick:"₹4800",
+//     productStrick:"₹4800",
 
-    productPrice:"₹2699",
-    offer:"44%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBGRAG643.jpg",
-
-    productTitle:"Carlton AG643 Badminton Replacement Grip",
-
-    productStrick:"₹11000",
-
-    productPrice:"₹6999",
-    offer:"36%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2699",
+//     offer:"44%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287954.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBGRAG643.jpg",
 
-    productTitle:"Carlton Heritage V5.2S Badminton Racket (Silver/Black/Lime, Strung)",
+//     productTitle:"Carlton AG643 Badminton Replacement Grip",
 
-    productStrick:"₹5990",
+//     productStrick:"₹11000",
 
-    productPrice:"₹2999",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹6999",
+//     offer:"36%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
-
-/////////////////row 6
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015300.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287954.jpg",
 
-    productTitle:"Carlton Vintage 200S Badminton Racket (Black/Lime, Unstrung)",
+//     productTitle:"Carlton Heritage V5.2S Badminton Racket (Silver/Black/Lime, Strung)",
 
-    productStrick:"₹6990",
+//     productStrick:"₹5990",
 
-    productPrice:"₹3499",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276182.jpg",
-
-    productTitle:"Carlton Isoblade 2.0 Badminton Racket (Grey, Strung)",
-
-    productStrick:"₹5290",
-
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2999",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+// /////////////////row 6
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015324.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015300.jpg",
 
-    productTitle:"Carlton Vintage 300S Badminton Racket (Silver/Black, Unstrung)",
+//     productTitle:"Carlton Vintage 200S Badminton Racket (Black/Lime, Unstrung)",
 
-    productStrick:"₹6990",
+//     productStrick:"₹6990",
 
-    productPrice:"₹3499",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹3499",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
-
-//////////// row 7
-
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015348.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276182.jpg",
 
-    productTitle:"Carlton Vintage 400S Badminton Racket (Grey/Black, Unstrung)",
+//     productTitle:"Carlton Isoblade 2.0 Badminton Racket (Grey, Strung)",
 
-    productStrick:"₹6990",
+//     productStrick:"₹5290",
 
-    productPrice:"₹3499",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015324.jpg",
+
+//     productTitle:"Carlton Vintage 300S Badminton Racket (Silver/Black, Unstrung)",
+
+//     productStrick:"₹6990",
+
+//     productPrice:"₹3499",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+// //////////// row 7
 
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBSPPX66.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13015348.jpg",
 
-    productTitle:"Carlton Power Pulse X66 Badminton String",
+//     productTitle:"Carlton Vintage 400S Badminton Racket (Grey/Black, Unstrung)",
 
-    productStrick:"₹700",
+//     productStrick:"₹6990",
 
-    productPrice:"₹399",
-    offer:"43%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹3499",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
 
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBSPPX66.jpg",
 
-    productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
+//     productTitle:"Carlton Power Pulse X66 Badminton String",
 
-    productStrick:"₹5290",
+//     productStrick:"₹700",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+//     productPrice:"₹399",
+//     offer:"43%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-///////row 8
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
+// },
 
-    productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
-
-    productStrick:"₹5290",
-
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
 
-    productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
+//     productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
 
-    productStrick:"₹5290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+
+// ///////row 8
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
+
+//     productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
+
+//     productStrick:"₹5290",
+
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
 
-    productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
+//     productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
 
-    productStrick:"₹5290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-///////////////row 9
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276183.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
 
-    productTitle:"Carlton Isoblade 3.0 Badminton Racket (Yellow/Grey, Strung)   ",
+//     productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
 
-    productStrick:"₹5290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276179.jpg",
-
-    productTitle:"Carlton Isoblade EP10 Badminton Racket (Blue/Black, Strung)",
-
-    productStrick:"₹5290",
-
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+
+// ///////////////row 9
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287950.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276183.jpg",
 
-    productTitle:"Carlton Heritage V5.0S Badminton Racket (White/Black, Strung)",
+//     productTitle:"Carlton Isoblade 3.0 Badminton Racket (Yellow/Grey, Strung)   ",
 
-    productStrick:"₹5290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-/////////row 10
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXWNOR.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276179.jpg",
 
-    productTitle:"Yonex SHB 57 EX Badminton Shoes (White/Neon Orange))",
+//     productTitle:"Carlton Isoblade EP10 Badminton Racket (Blue/Black, Strung)",
 
-    productStrick:"₹8290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
-
-    productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
-
-    productStrick:"₹5290",
-
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13004648.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287950.jpg",
 
-    productTitle:"Carlton Carbotec 3000 Badminton Racket (Gold/Blue, Strung)",
+//     productTitle:"Carlton Heritage V5.0S Badminton Racket (White/Black, Strung)",
 
-    productStrick:"₹5290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-/////row 11
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13004648.jpg",
-
-    productTitle:"Carlton Carbotec 3000 Badminton Racket (Gold/Blue, Strung)",
-
-    productStrick:"₹5290",
-
-    productPrice:"₹2649",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+
+// /////////row 10
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287952.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXWNOR.jpg",
 
-    productTitle:"Carlton Heritage V5.1S Badminton Racket (Yellow/Blue, Strung)",
+//     productTitle:"Yonex SHB 57 EX Badminton Shoes (White/Neon Orange))",
 
-    productStrick:"₹5990",
+//     productStrick:"₹8290",
 
-    productPrice:"₹2999₹",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287938.jpg",
-
-    productTitle:"Carlton Carbotec 1300 Badminton Racket (Red/Blue, Strung)",
-
-    productStrick:"₹4290",
-
-    productPrice:"₹2149",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹6299",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
-
-/////row 12
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13093412.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10276180.jpg",
 
-    productTitle:"Carlton Carbotec 2200 Badminton Racket (Black/Blue, Strung)",
+//     productTitle:"Carlton Isoblade EP20 Badminton Racket (Black, Strung)",
 
-    productStrick:"₹4290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹2149",
-    offer:"50%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/BBTRMP29LBKGRY.jpg",
-
-    productTitle:"Yonex Muscle Power 29 Light Badminton Racket (Black/Grey, Strung)",
-
-    productStrick:"₹4200",
-
-    productPrice:"₹2299",
-    offer:"45%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXWNOR.jpg",
-
-    productTitle:"Yonex SHB 57 EX Badminton Shoes (White/Neon Orange)",
-
-    productStrick:"₹8290",
-
-    productPrice:"₹6299",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
-
-//////////row 13
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXBLGR.jpg",
-
-    productTitle:"Yonex SHB 57 EX Badminton Shoes (Blue Grey)",
-
-    productStrick:"₹8290",
-
-    productPrice:"₹6299",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXYN.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13004648.jpg",
 
-    productTitle:"Yonex SHB 57 EX Badminton Shoes (Yellow/Navy)",
+//     productTitle:"Carlton Carbotec 3000 Badminton Racket (Gold/Blue, Strung)",
 
-    productStrick:"₹8290",
+//     productStrick:"₹5290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+// /////row 11
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13004648.jpg",
+
+//     productTitle:"Carlton Carbotec 3000 Badminton Racket (Gold/Blue, Strung)",
+
+//     productStrick:"₹5290",
+
+//     productPrice:"₹2649",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/ADINFX1794.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287952.jpg",
 
-    productTitle:"Adidas Essence Mens Indoor Court Shoes (Halo Silver/Legend Ink/Hi-Res Yellow)",
+//     productTitle:"Carlton Heritage V5.1S Badminton Racket (Yellow/Blue, Strung)",
 
-    productStrick:"₹4999",
+//     productStrick:"₹5990",
 
-    productPrice:"₹3499",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+//     productPrice:"₹2999₹",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-///////row 14
-  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB50EXRDBK.jpg",
-
-    productTitle:"Yonex SHB 50 EX Badminton Shoes (Red/Black)",
-
-    productStrick:"₹4990",
-
-    productPrice:"₹3299",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-},
+// },
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB37WEXNYL.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR10287938.jpg",
 
-    productTitle:"Yonex SHB 37 WEX Wide Badminton Shoes (Navy/Yellow)",
+//     productTitle:"Carlton Carbotec 1300 Badminton Racket (Red/Blue, Strung)",
 
-    productStrick:"₹4790",
+//     productStrick:"₹4290",
 
-    productPrice:"₹2999",
-    offer:"24%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2149",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+
+// /////row 12
 
   
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB37EXBKPK.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBR13093412.jpg",
 
-    productTitle:"onex SHB 37 EX Badminton Shoes (Black/Pink)",
+//     productTitle:"Carlton Carbotec 2200 Badminton Racket (Black/Blue, Strung)",
 
-    productStrick:"₹4790",
+//     productStrick:"₹4290",
 
-    productPrice:"₹2999",
-    offer:"37%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹2149",
+//     offer:"50%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/BBTRMP29LBKGRY.jpg",
 
-////////////row15
+//     productTitle:"Yonex Muscle Power 29 Light Badminton Racket (Black/Grey, Strung)",
+
+//     productStrick:"₹4200",
+
+//     productPrice:"₹2299",
+//     offer:"45%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXWNOR.jpg",
+
+//     productTitle:"Yonex SHB 57 EX Badminton Shoes (White/Neon Orange)",
+
+//     productStrick:"₹8290",
+
+//     productPrice:"₹6299",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+// //////////row 13
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXBLGR.jpg",
+
+//     productTitle:"Yonex SHB 57 EX Badminton Shoes (Blue Grey)",
+
+//     productStrick:"₹8290",
+
+//     productPrice:"₹6299",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB57EXYN.jpg",
+
+//     productTitle:"Yonex SHB 57 EX Badminton Shoes (Yellow/Navy)",
+
+//     productStrick:"₹8290",
+
+//     productPrice:"₹6299",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/ADINFX1794.jpg",
+
+//     productTitle:"Adidas Essence Mens Indoor Court Shoes (Halo Silver/Legend Ink/Hi-Res Yellow)",
+
+//     productStrick:"₹4999",
+
+//     productPrice:"₹3499",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+
+// ///////row 14
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB50EXRDBK.jpg",
+
+//     productTitle:"Yonex SHB 50 EX Badminton Shoes (Red/Black)",
+
+//     productStrick:"₹4990",
+
+//     productPrice:"₹3299",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB37WEXNYL.jpg",
+
+//     productTitle:"Yonex SHB 37 WEX Wide Badminton Shoes (Navy/Yellow)",
+
+//     productStrick:"₹4790",
+
+//     productPrice:"₹2999",
+//     offer:"24%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+  
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNSHB37EXBKPK.jpg",
+
+//     productTitle:"onex SHB 37 EX Badminton Shoes (Black/Pink)",
+
+//     productStrick:"₹4790",
+
+//     productPrice:"₹2999",
+//     offer:"37%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+
+
+// },
+
+// ////////////row15
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR111LTBL.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR111LTBL.jpg",
 
-    productTitle:"YONEX ZR-111 Light Badminton Racket (Blue, Strung)",
+//     productTitle:"YONEX ZR-111 Light Badminton Racket (Blue, Strung)",
 
-    productStrick:"₹750",
+//     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹550",
+//     offer:"27%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR100LTDCH.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR100LTDCH.jpg",
 
-    productTitle:"YONEX ZR-100 Light Badminton Racket (Dark Charcoal, Strung)",
+//     productTitle:"YONEX ZR-100 Light Badminton Racket (Dark Charcoal, Strung)",
 
-    productStrick:"₹750",
+//     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹550",
+//     offer:"27%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR100LTOR.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR100LTOR.jpg",
 
-    productTitle:"YONEX ZR-100 Light Badminton Racket (Orange, Strung)",
+//     productTitle:"YONEX ZR-100 Light Badminton Racket (Orange, Strung)",
 
-    productStrick:"₹750",
+//     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"37%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹550",
+//     offer:"37%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
-///////////////////row16
+// },
+// ///////////////////row16
 
 
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXEXBLT63.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXEXBLT63.jpg",
 
-    productTitle:"YONEX BG EXBOLT 63 Badminton String",
+//     productTitle:"YONEX BG EXBOLT 63 Badminton String",
 
-    productStrick:"₹1030",
+//     productStrick:"₹1030",
 
-    productPrice:"₹799",
-    offer:"22%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹799",
+//     offer:"22%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR111LTGRY.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR111LTGRY.jpg",
 
-    productTitle:"YONEX ZR-111 Light Badminton Racket (Grey, Strung)",
+//     productTitle:"YONEX ZR-111 Light Badminton Racket (Grey, Strung)",
 
-    productStrick:"₹750",
+//     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹550",
+//     offer:"27%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
  
-{
-    productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR101LTBK.jpg",
+// {
+//     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YXZR101LTBK.jpg",
 
-    productTitle:"YONEX ZR-101 Light Badminton Racket (Black, Strung)",
+//     productTitle:"YONEX ZR-101 Light Badminton Racket (Black, Strung)",
 
-    productStrick:"₹750",
+//     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
-    rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+//     productPrice:"₹550",
+//     offer:"27%off",
+//     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
-},
+// },
 
 
 
@@ -740,7 +740,7 @@ var productArr= [
                 ]
 
 
-                document.querySelector("#totelproductout").innerText= "Found "+ productArr.length+" product(s)" 
+ document.querySelector("#totelproductout").innerText= "Found "+ productArr.length+" product(s)" 
 
 displayData(productArr)
 
@@ -772,7 +772,7 @@ if(sort.value=="LTH")
 
 
 function displayData(productArr){
-    // document.querySelector("#product").innerHTML=""
+    document.querySelector("#product").innerHTML=""
     productArr.forEach(function(ele){
 
         //product box start from here
