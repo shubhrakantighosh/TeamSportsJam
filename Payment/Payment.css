@@ -1,0 +1,186 @@
+#container{
+    width: 1300px;
+    height: 1000px;
+    margin:-1%;
+    margin-left: -2%;
+    margin-left: -2%;
+    background-color: rgb(239, 238, 238);
+}
+#paymentpage{
+    height: auto;
+    width: 73%;
+    margin: auto;
+    background-color: white;
+    padding-bottom: 30px;
+}
+#billinfobox{
+    height: 300px;
+    width: 98%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.greenbar{
+    width:60%;
+}
+.greenbar>div>p{
+    color:white;
+    background-color: rgb(83, 183, 83) ;
+    border-radius: 3px;
+    height: 30px;
+    width: 100%;
+}
+#billinfodata>div>p{
+    margin-left: 10px;
+    padding-top: 6px;
+}
+.mapping{
+    padding:3Px 317px 3px 3px;
+    margin: 1% auto;
+}
+.mapping2{
+    padding:3Px 72px 3px 3px;
+    margin: 1% auto;
+}
+#orderdetailsbox{
+    border:1px rgb(109, 109, 107) solid;
+    width: 25%;
+    height: 125px;
+    padding-left: 2%;
+    margin-top: -4%;
+    padding-right: 2%;;
+}
+#orderdetailsbox>p,h4{
+    margin-top: -3%;
+}
+#paymentbox{
+    height: 370px;
+    width: 60.7%;
+    margin-left: 20px;
+    display: flex;
+    border: 1px rgb(214, 214, 214) solid;
+}
+#paymentmode{
+    width: 140px;
+    height: auto;
+    margin-top: -6px;
+}
+#paymentmode>div>p{
+    margin-left: 14px;
+    font-size: 13px;
+}
+.creditcardborder{
+   height:40px ;
+   border: 1px rgb(214, 214, 214) solid;
+   width:140px ;
+}
+#paymentdetails{
+    width: 450px;
+    height: auto;
+    display: flex;
+    margin-top: -15px;
+}
+#image{
+    height:30px ;
+    width: 30px;
+    margin-top: -5px;
+}
+.monthyear{
+    height: 40px;
+    width: 200px;
+}
+.monthyear>select{
+    margin-left: 5px;
+    padding:3px 10px 3px 10px;
+}
+#box1{
+    width: 40px;
+    margin-left:10px;
+    padding-top: -100px;
+}
+#imagebox{
+    height: 40px;
+    width: 100px;
+}
+.cvv{
+    height: 40px;
+    width: 60px;
+}
+#amountbox{
+    display: flex;
+    margin-top: -25px;
+}
+#expirydatecvv{
+    display: flex;
+    width: 53%;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-top: -17px;
+}
+#cardnumber>input{
+    padding: 5px 30px 5px 5px;
+}
+#cardnumber{
+    margin-top: -10px;
+}
+#cardimg>img{
+    height: 37px;
+    margin-top: -13.5px;
+    margin-left: -2px;
+}
+#card{
+    display: flex;
+}
+#cardpayment{
+    margin-left: 20px;
+}
+.paymentbutton{
+    background-color: rgb(83, 183, 83);
+    border: 0px;
+    padding: 5px 6px 5px 6px;
+    color: white;
+    margin-top: -100%;
+}
+#paymentbuttonspace{
+    margin-left: 10px;
+}
+#terms{
+    margin-top: -1px;
+}
+#amountbox>h3{
+    color: rgb(61, 133, 185);
+}
+#amountbox>h5{
+    margin-left:10px;
+}
+#checkbox{
+    display: flex;
+    margin-left: 40px;
+    margin-top: -40px;
+}
+#checkboxp{
+    margin-top: -1px;
+    margin-left: 6px;
+}
+.bar{
+    width:61%;;
+    height: 35px;
+    background-color: rgb(83, 183, 83);
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    color: white;
+}
+.bar>p{
+    margin-left: 10px;
+    padding-top: 8px;
+}
+#logo{
+    padding: 30px;
+}
+hr.solid {
+    border-top: 1px solid #bbb;
+}
+hr.solidadjust{
+    margin-top: -14px;
+}
