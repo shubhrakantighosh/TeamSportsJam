@@ -1,0 +1,286 @@
+a{
+    text-decoration: none;
+}
+body>div:nth-child(1){
+    /* border: 1px solid black; */
+    height: 40px;
+    margin-left:30px ;
+
+   
+}
+body>div:nth-child(1)>p:nth-child(1){
+    color: rgb(188, 188, 188);
+    font-size: 15px;
+    display: inline-block;
+}
+body>div:nth-child(1)>p:nth-child(2){
+    color: rgb(53, 53, 53);
+    font-size: 15px;
+    display: inline-block;
+}
+
+
+#primecont{
+
+    display: flex;
+}
+
+
+/* left work start from here */
+
+#leftbar{
+    width: 15%;
+height: 500px;
+border: 1px solid red;
+margin-top: 0px;
+margin-left: 30px;
+
+}
+#categorymenu>div:nth-child(1){
+   background-color:rgb(96, 96, 96);
+   
+   border: 1px solid blue  ;
+   height: 40px;
+   display: flex;
+   align-items: center;
+   /* background-color: red; */
+ 
+
+}
+
+#categorymenu>div:nth-child(2){
+    border: 1px solid black;
+    height: 200px;
+    width: 100%;
+}
+
+#rightbar{
+    width: 85%;
+  
+    /* border: 1px solid rgb(0, 38, 255); */
+
+}
+
+
+
+/* top section */
+#topbar{
+    /* border: 1px solid rgb(255, 0, 230); */
+    height: 120px;
+    width: 100%;
+    /* padding: 30px; */
+    /* background-color: red;s */
+}
+#topbarinner{
+    width: 94%;
+    height: 80%;
+    border-bottom : 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+    justify-content: end;
+    
+}
+#topbarinner>div{
+    width: 60%;
+    height: 100%;
+    /* border: 1px solid gray;s */
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#topbarinner>div>div{
+    /* border: 1px solid rgb(196, 59, 82); */
+}
+
+#topbarinner>div>div:nth-child(1)
+{
+    width: 26%;
+    height: 30px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+#totelproduct>p{
+    /* border: 1px solid red; */
+    margin-top: 9px;
+}
+
+
+#topbarinner>div>div:nth-child(2)
+{
+    width: 24%;
+    height: 40%;
+    margin-top: 50px;
+    
+    
+}
+#topbarinner>div>div:nth-child(3)
+{
+    width: 40%;
+    height: 100%;
+}
+#topbarinner>div>div:nth-child(3)>#sort{
+    /* background-color: red; */
+    width: 100%;
+    height: 30px;
+    margin-top: 55px;
+}
+#page>p{
+    display: inline-block;
+    /* border: 1px solid red; */
+    color: gray;
+}
+#page>button{
+    color: white;
+    border: 0px;
+    background-color: #a5a5a5   ;
+    font-weight: bold;
+    padding: 7px 10px 7px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+#page>button>a{
+    color: white;
+}
+#page>button:hover{
+    background-color: #242424;
+}
+
+
+/* top section end */
+
+
+#cont{
+    /* border: 1px solid black;s */
+    display: flex;
+   
+   
+}
+
+
+
+/* product part start from here */
+
+
+#main{
+
+    /* border: 1px solid green; */
+    width: 100%;
+}
+
+#product{
+    /* border: 1px solid green; */
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* grid-template-row:200px ; */
+
+    /* gap:10px */
+}
+#product>div:hover{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*bottom css part start here*/
+
+#bottomcont2{
+    display: flex;
+    border:5px solid black;
+   
+}
+#bottomleft{
+    width: 15%;
+    /* height: 500px; */
+    border: 1px solid red;
+}
+#bottommain{
+    width: 85%;
+    /* height: 500px; */
+    border: 1px solid green;
+}
+#bottommain>div:nth-child(1){
+    width: 100%;
+    height: 35px;
+    /* text-align: center;s */
+    background-color: #ededed;
+    font-family: open sans!important;
+    cursor: pointer;
+    margin-top: 5px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#bottommain>div:nth-child(2){
+    width: 100%;
+    height: 35px;
+    
+    background-color: #767676;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+#bottommain>div:nth-child(3){
+    font-size: 14px;
+
+}
+#bottommain>div:nth-child(3)>a{
+    color: blue;
+}
+
+#bottommain>div:nth-child(4){
+    margin-top: 20px;
+    width: auto;
+    height: 70px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+#brand>div{
+    border: 1px solid green;
+    width: 15%;
+   
+
+
+}
+
+#bottomcont3>div:nth-child(1){
+    border: 1px solid red;
+    width: 100%;
+    height: 120px;
+    margin-top: 5px;
+    background-color: #c8c8c8;
+
+}
+
+#bottomcont3>div:nth-child(2){
+    border: 1px solid red;
+    width: 100%;
+    height: 380px;
+   
+    background-color: #242424;
+
+}
