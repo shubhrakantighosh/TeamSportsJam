@@ -18,7 +18,7 @@
         <div id="leftbar">
             <div id="categorymenu">
                 <div ><p>CATEGORY MENU</p> </div>
-                <div style="overflow: scroll;">
+                <div  style="overflow: scroll;">
                 <p style="font-size: 10pxs;font-weight: bold;">BADMINTON</p>
                 <p>Rackets</p>
                 <p>Shoes</p>
@@ -38,11 +38,53 @@
             </div>
 
 
+<!-- ////////////////////////////////drop down part -->
+            <div id="refinesearch" ><p style="background-color: rgb(66, 66, 66);height: 40px;display: flex;align-items: center;">REFINE SEARCH</p>
+                <div class="sidenav">
+                
+                    <button class="dropdown-btn">CATEGORY + <i class="fa fa-caret-down"></i> </button>
+                    <div class="dropdown-container">
+                        <a href="#">Badminton Accesories</a>
+                        <a href="#">Badminton Grips</a>
+                        <a href="#">Badminton Rackets</a>
+                        <a href="#">Badminton Shoes</a>
+                        <a href="#">Badminton shuttle cock</a>
+                       
+                      </div>
+                    <button class="dropdown-btn" >Brand + <i class="fa fa-caret-down"></i></button>
+                    <div class="dropdown-container">
+                        <a href="#">Adidas</a>
+                        <input type="checkbox" name="" id="">
+                        <a href="#">Asics</a>
+                        <input type="checkbox" name="" id="">
+                        <a href="#">Dsc</a>
+                        <input type="checkbox" name="" id="">
+                        <a href="#">Victor</a>
+                        <input type="checkbox" name="" id="">
+                        <a href="#">Yonex</a>
+                        <input type="checkbox" name="" id="">
+                       
+                      </div>
 
-            <div id="refinesearch"></div>
+                      <button class="dropdown-btn">Price +  <i class="fa fa-caret-down"></i></button>
+                      <div class="dropdown-container">
+                       
+                        <input type="range">
+                        
+                       
+                      </div>
+                 
+                  </div>
+                  
+               
+                </div>
+               
+                </div>
+
+
             
-                    </div>
-
+            
+                    
 <!-- left bar end -->
 
 <div id="rightbar">
@@ -54,11 +96,11 @@
     <div id="sortdiv"> 
         <select name="" id="sort">
             <option value="">SORT BY</option>
-            <option value="">Price low to high</option>
-            <option value="">Price high to low</option>
-            <option value="">Popularity</option>
-            <option value="">Discount</option>
-            <option value="">Relevance</option>
+            <option value="LTH">Price low to high</option>
+            <option value="HTL">Price high to low</option>
+            
+            <option value="DISC">Discount</option>
+          
         </select>
     </div>
 </div>

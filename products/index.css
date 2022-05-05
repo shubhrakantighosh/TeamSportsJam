@@ -31,7 +31,7 @@ body>div:nth-child(1)>p:nth-child(2){
 #leftbar{
     width: 15%;
 height: 500px;
-border: 1px solid red;
+/* border: 1px solid red; */
 margin-top: 0px;
 margin-left: 30px;
 
@@ -39,7 +39,7 @@ margin-left: 30px;
 #categorymenu>div:nth-child(1){
    background-color:rgb(96, 96, 96);
    
-   border: 1px solid blue  ;
+   /* border: 1px solid blue  ; */
    height: 40px;
    display: flex;
    align-items: center;
@@ -49,7 +49,7 @@ margin-left: 30px;
 }
 
 #categorymenu>div:nth-child(2){
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 200px;
     width: 100%;
 }
@@ -284,3 +284,62 @@ margin-left: 30px;
     background-color: #242424;
 
 }
+
+
+
+/* /////////////////////////////////////////////////////////////////////////////// */
+      /* Fixed sidenav, full height */
+      .sidenav {
+        height: 20%;
+        width: 100%;
+        
+        /* z-index: 1; */
+        /* background-color: #111; */
+        overflow-x: hidden;
+        margin-top: 20px;
+      }
+      
+      /* Style the sidenav links and the dropdown button */
+      .sidenav a, .dropdown-btn {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #000000;
+        display: block;
+       border: none;
+        background: none;
+        width:100%;
+        text-align: left;
+        cursor: pointer;
+        outline: none;
+
+        
+      }
+      
+     
+      /* On mouse-over */
+      .sidenav a:hover, .dropdown-btn:hover {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      }
+      
+      /* Main content */
+      .main {
+        margin-left: 200px; /* Same as the width of the sidenav */
+        font-size: 20px; /* Increased text to enable scrolling */
+        padding: 0px 10px;
+      }
+      
+      /* Add an active class to the active dropdown button */
+      .active {
+        background-color: rgb(252, 252, 252);
+        color: rgb(0, 0, 0);
+      }
+      
+      /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+      .dropdown-container {
+        display: none;
+        
+        padding-left: 8px;
+      }
+      
+ 
