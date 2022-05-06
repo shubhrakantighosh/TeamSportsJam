@@ -6,8 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="signin.html">
 </head>
 <body>
+
+
+
+
+
+
     <div id="bigbox">
         <div id="box">
 <div id="signbox">
@@ -28,7 +35,8 @@
     </div>
 
     <div id="user">
-        <div><p><u>NewUser?Register</u></p> </div>
+        <div><a href="signin.html"><p><u>NewUser?Register</u></p> </a></div>
+        
         <div><p><u>ForgotPassword</u></p></div>
     </div>
     <input type="submit" id="loginbutton" value="LOGIN">
@@ -41,30 +49,4 @@
    
 </body>
 </html>
-<script>
-
-    
-document.querySelector("form").addEventListener("submit",sign)
-var signarr2=[];
-    function sign(){
-        
-        event.preventDefault();
-        var obj1={
-        
-
-            email2:document.querySelector("#email1").value,
-            passwrd2:document.querySelector("#password1").value,
-            
-        };
-        signarr2.push(obj1);
-       var out= localStorage.setItem("signuppage2",JSON.stringify(signarr2))
-        for(var i=0;i<signinarr2;i++)
-        {
-            if(out==signinarr2[i])
-            {
-
-            }
-        }
-    
-    }
-</script>
+<script src="login.js"></script>

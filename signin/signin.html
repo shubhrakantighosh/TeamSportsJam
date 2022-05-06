@@ -11,10 +11,56 @@
 
 </head>
 <body>
+<!-- header section -->
+<header class="header-wrapper">
+    <div><i class="fa-solid fa-phone"></i><span> Call Us:+91-9555461555</span> </div>
+    <div><i class="fa-solid fa-right-to-bracket"></i><a href="login.html">Sign In</a></div>
+    <div><i class="fa-solid fa-user"></i><a href="signup.html">Create Account</a></div>
+     <div><i class="fa-solid fa-heart"></i><a href="wishlist.html">Wishlist</a></div>
+</header>
+
+<!-- logo search bar and cart section -->
+
+ <div id="header">
+     <div class="logo">
+         <img src="https://storage.sg.content-cdn.io/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/userimages/logo.jpg" alt="Sportsjam logo">
+     </div>
+     <div class="search">
+         <div>
+            <input type="text" placeholder="search">
+            <span ><i class="fa-solid fa-magnifying-glass "></i></span>
+         </div>
+        </div>
+     <div><i class="fa-solid fa-cart-shopping fa-3x"></i><span class="cart">Shopping Cart </span> </div>
+ </div>
+
+<!-- category section  -->
+
+<div class="category">
+    <p> SPORTS</p>
+    <p> FITNESS</p>
+    <p> SHOES </p>
+    <p> CLOTHING</p>
+    <p>ACCESSORIES</p>
+    <p>LEISURE SPORTS </p>
+    <p> FANGEAR</p>
+    <p>BRANDS </p>
+</div>
+
+
+
+
+
+
+
+
+
+<!-- karishma section
+   *********************************************************************** --> -->
     <a href="signin.html"></a>
     <a href="signin.css"></a>
     <div id="x">
-        <div> <p>NEW USER</p></div>
+        <div> <p>NEW USER </p></div> 
         <div><p>REGISTRATION</p></div>
         
         
@@ -77,19 +123,4 @@
 
 </html>
 
-<script>
-document.querySelector("#form").addEventListener("submit",signuppage)
-var signarr=[];
-    function signuppage(){
-        event.preventDefault();
-        var obj={
-            firstname:document.querySelector("#name").value,
-            mobile_no:document.querySelector("#phone").value,
-            email:document.querySelector("#email").value,
-            passwrd:document.querySelector("#password").value,
-            confrm:document.querySelector("#Confirmpassword").value,
-        };
-        signarr.push(obj);
-       var output= localStorage.setItem("signinprocess",JSON.stringify(signarr));
-       window.location.href=
-    }</script>
+<script src="signin.js"></script>
