@@ -1,0 +1,18 @@
+body>div>img{
+    height: 100px;
+    width: 250px
+}
+body>div{
+    margin-left: 2%;
+}
+#otp{
+    height: 100px;
+    width: 100px;
+    margin:100px 0px 0px 500px;
+}
+#otp>form{
+    display: flex;
+}
+#otp>form>input:last-child{
+    margin-left: 5px;
+}

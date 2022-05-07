@@ -25,11 +25,6 @@ body{
 #paymentpage>div:first-child{
     padding: 30px;
 }
-/* #billinfobox>div>form>input:first-child{
-    padding:3Px 317px 3px 3px;
-    margin: 1% auto;
-    margin-top: 20px;
-} */
 #billinfobox>div>form>input:nth-child(2){
     padding:3Px 317px 3px 3px;
     margin: 1% auto;
@@ -53,14 +48,6 @@ body{
 #countrybox{
     padding: 3px 43px 4px 3px;
 }
-/* #billinfobox>div>form>input:nth-child(7){
-    padding:3Px 72px 3px 3px;
-    margin: 1% auto;
-} */
-/* #billinfobox>div>form>input:nth-child(8){
-    padding:3Px 72px 3px 3px;
-    margin: 1% auto;
-} */
 #orderdetailsbox{
     border:1px rgb(109, 109, 107) solid;
     width: 25%;
