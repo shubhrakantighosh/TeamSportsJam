@@ -22,10 +22,11 @@ function sign(){
        
         if(email2 == signarr[i].email&& passwrd2 ==signarr[i].passwrd)
         {
-alert("signup successfully")
+             alert("signup successfully");
+             window.location.href="/home/home.html";
         }
         else{
-            alert("invalid email or password")
+            alert("invalid email or password");
         }
     }
 }
