@@ -13,8 +13,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -28,8 +28,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -42,8 +42,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -56,8 +56,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -69,8 +69,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -82,8 +82,8 @@ var productArr= [
 
         productStrick:"₹3890",
 
-        productPrice:"₹2299",
-        offer:"41%off",
+        productPrice:2299,
+        offer:41,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -99,8 +99,8 @@ var productArr= [
 
         productStrick:"₹17990",
 
-        productPrice:"₹12899",
-        offer:"28%off",
+        productPrice:12899,
+        offer:28,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -112,8 +112,8 @@ var productArr= [
 
         productStrick:"₹17990",
 
-        productPrice:"₹12899",
-        offer:"28%off",
+        productPrice:12899,
+        offer:28,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -125,8 +125,8 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
-        offer:"22%off",
+        productPrice:9299,
+        offer:22,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -140,8 +140,8 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
-        offer:"22%off",
+        productPrice:9299,
+        offer:22,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -154,8 +154,8 @@ var productArr= [
 
         productStrick:"₹11990",
 
-        productPrice:"₹9299",
-        offer:"22%off",
+        productPrice:9299,
+        offer:22,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -168,13 +168,13 @@ var productArr= [
 
         productStrick:"₹7500",
 
-        productPrice:"₹4499",
-        offer:"40%off",
+        productPrice:4499,
+        offer:40,
         rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
     },
-///////////////////////////// row 5
+/////////////////////////// row 5
   
 {
     productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/CTBGR005690.jpg",
@@ -183,8 +183,8 @@ var productArr= [
 
     productStrick:"₹4800",
 
-    productPrice:"₹2699",
-    offer:"44%off",
+    productPrice:2699,
+    offer:44,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -198,8 +198,8 @@ var productArr= [
 
     productStrick:"₹11000",
 
-    productPrice:"₹6999",
-    offer:"36%off",
+    productPrice:6999,
+    offer:36,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -213,8 +213,8 @@ var productArr= [
 
     productStrick:"₹5990",
 
-    productPrice:"₹2999",
-    offer:"50%off",
+    productPrice:2999,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -230,8 +230,8 @@ var productArr= [
 
     productStrick:"₹6990",
 
-    productPrice:"₹3499",
-    offer:"50%off",
+    productPrice:3499,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -245,8 +245,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -260,8 +260,8 @@ var productArr= [
 
     productStrick:"₹6990",
 
-    productPrice:"₹3499",
-    offer:"50%off",
+    productPrice:3499,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -278,8 +278,8 @@ var productArr= [
 
     productStrick:"₹6990",
 
-    productPrice:"₹3499",
-    offer:"50%off",
+    productPrice:3499,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -294,8 +294,8 @@ var productArr= [
 
     productStrick:"₹700",
 
-    productPrice:"₹399",
-    offer:"43%off",
+    productPrice:399,
+    offer:43,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -310,8 +310,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -327,8 +327,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -342,8 +342,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -357,8 +357,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -375,8 +375,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -390,8 +390,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -405,8 +405,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -423,8 +423,8 @@ var productArr= [
 
     productStrick:"₹8290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
+    productPrice:6299,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -438,8 +438,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -453,8 +453,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -468,8 +468,8 @@ var productArr= [
 
     productStrick:"₹5290",
 
-    productPrice:"₹2649",
-    offer:"50%off",
+    productPrice:2649,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -483,8 +483,8 @@ var productArr= [
 
     productStrick:"₹5990",
 
-    productPrice:"₹2999₹",
-    offer:"50%off",
+    productPrice:2999,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -498,8 +498,8 @@ var productArr= [
 
     productStrick:"₹4290",
 
-    productPrice:"₹2149",
-    offer:"50%off",
+    productPrice:2149,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -515,8 +515,8 @@ var productArr= [
 
     productStrick:"₹4290",
 
-    productPrice:"₹2149",
-    offer:"50%off",
+    productPrice:2149,
+    offer:50,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -529,8 +529,8 @@ var productArr= [
 
     productStrick:"₹4200",
 
-    productPrice:"₹2299",
-    offer:"45%off",
+    productPrice:2299,
+    offer:45,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -543,8 +543,8 @@ var productArr= [
 
     productStrick:"₹8290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
+    productPrice:6299,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -559,8 +559,8 @@ var productArr= [
 
     productStrick:"₹8290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
+    productPrice:6299,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -574,8 +574,8 @@ var productArr= [
 
     productStrick:"₹8290",
 
-    productPrice:"₹6299",
-    offer:"24%off",
+    productPrice:6299,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -589,8 +589,8 @@ var productArr= [
 
     productStrick:"₹4999",
 
-    productPrice:"₹3499",
-    offer:"24%off",
+    productPrice:3499,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -606,8 +606,8 @@ var productArr= [
 
     productStrick:"₹4990",
 
-    productPrice:"₹3299",
-    offer:"24%off",
+    productPrice:3299,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -621,8 +621,8 @@ var productArr= [
 
     productStrick:"₹4790",
 
-    productPrice:"₹2999",
-    offer:"24%off",
+    productPrice:2999,
+    offer:24,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -636,8 +636,8 @@ var productArr= [
 
     productStrick:"₹4790",
 
-    productPrice:"₹2999",
-    offer:"37%off",
+    productPrice:2999,
+    offer:37,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -652,8 +652,8 @@ var productArr= [
 
     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
+    productPrice:550,
+    offer:27,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -666,8 +666,8 @@ var productArr= [
 
     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
+    productPrice:550,
+    offer:27,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -680,8 +680,8 @@ var productArr= [
 
     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"37%off",
+    productPrice:550,
+    offer:37,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -697,8 +697,8 @@ var productArr= [
 
     productStrick:"₹1030",
 
-    productPrice:"₹799",
-    offer:"22%off",
+    productPrice:799,
+    offer:22,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -711,8 +711,8 @@ var productArr= [
 
     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
+    productPrice:550,
+    offer:27,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -725,8 +725,8 @@ var productArr= [
 
     productStrick:"₹750",
 
-    productPrice:"₹550",
-    offer:"27%off",
+    productPrice:550,
+    offer:27,
     rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
 
 
@@ -740,7 +740,7 @@ var productArr= [
                 ]
 
 
-                document.querySelector("#totelproductout").innerText= "Found "+ productArr.length+" product(s)" 
+ document.querySelector("#totelproductout").innerText= "Found "+ productArr.length+" product(s)" 
 
 displayData(productArr)
 
@@ -754,10 +754,30 @@ if(sort.value=="LTH")
     var out=productArr.sort(function(a,b){
         return a.productPrice-b.productPrice
     })
+    displayData(out)
     console.log(out)
 }
 
-    console.log(sort.value)
+if(sort.value=="HTL")
+{
+    var out=productArr.sort(function(a,b){
+        return b.productPrice-a.productPrice
+    })
+    displayData(out)
+    console.log(out)
+}
+
+if(sort.value=="DISC")
+{
+    var out=productArr.sort(function(a,b){
+        return    b.offer-a.offer
+    })
+    displayData(out)
+    
+}
+
+
+   
 }
 
 
@@ -772,7 +792,7 @@ if(sort.value=="LTH")
 
 
 function displayData(productArr){
-    // document.querySelector("#product").innerHTML=""
+    document.querySelector("#product").innerHTML=""
     productArr.forEach(function(ele){
 
         //product box start from here
@@ -790,6 +810,12 @@ function displayData(productArr){
     
         //box append
         document.querySelector("#product").append(box)
+
+        ////HOVER
+        var hover=document.createElement("div")
+        hover.setAttribute("id","hover")
+        hover.innerText="Quick View"
+        box.append(hover)
     
     
         //product-image part from here
@@ -812,13 +838,13 @@ function displayData(productArr){
     
         //product price part start from here
         var text3= document.createElement("p")
-        text3.innerText=ele.productPrice
+        text3.innerText= "₹" +ele.productPrice
         text3.style.display="inline-block"
         text3.style.marginLeft="20px"
     
     
         var text4= document.createElement("p")
-        text4.innerText=ele.offer
+        text4.innerText=ele.offer+"%off"
         text4.style.display="inline-block"
         text4.style.marginRight="10px"
         text4.style.color="darkOrange"
