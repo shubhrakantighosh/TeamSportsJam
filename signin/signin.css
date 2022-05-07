@@ -181,14 +181,14 @@ p, font {
 #subheading
 {
     width:90px;
-    line-height: 55px;
+    line-height: 40px;
     margin-left: 40px;
 }
 #symbol{
     text-align: left;
     width:50px;
     color:red;
-    line-height: 55px;
+    line-height: 40px;
     margin-left: -10px;
 }
 #name{
