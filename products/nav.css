@@ -8,6 +8,7 @@
 /* header part styling */
 
 .header-wrapper{
+ 
     display: flex;
     justify-content: right;
     height: 40px;
