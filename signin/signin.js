@@ -14,5 +14,5 @@
             signarr.push(obj);
             console.log(signarr)
            var output= localStorage.setItem("signinprocess",JSON.stringify(signarr));
-           window.location.href="index.html"
+           window.location.href="login.html"
         }
