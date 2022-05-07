@@ -29,23 +29,27 @@ function mycheck(){
    let year=document.querySelector("#year").value;
    let cvv=document.querySelector("#cvv").value;
    if(cardno=="4567891011121123"&&month=="04"&&year=="2023"&&cvv==123){
-       alert("Amount debited from Your Card")
-       window.location.href="paymentsuccesspage.html";
+       window.location.href="otp.html";
    }
    else{
        alert("Invalid Card Details");
    }
 }
 
+let signarr=JSON.parse(localStorage.getItem("signinprocess"))
+let name1=signarr[0].firstname
+let mobile1=signarr[0].mobile_no;
+let email1=signarr[0].email;
+
 let name=document.createElement("p");
-name.innerText="Shubhra Kanti Ghosh";
+name.innerText=name1;
 name.style.color="blue";
 document.querySelector("#billinfobox>div>form>div:first-child").append(name);
 let mobile=document.createElement("p")
 mobile.style.color="blue";
-mobile.innerText="7044063694";
+mobile.innerText=mobile1;
 document.querySelector("#billinfobox>div>form>div:nth-child(7)").append(mobile);
 let email=document.createElement("p");
-email.innerText="shubhrakantighosh@gmail.com";
+email.innerText=email1;
 email.style.color="blue";
 document.querySelector("#billinfobox>div>form>div:nth-child(8)").append(email);
