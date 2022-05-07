@@ -115,7 +115,6 @@
     padding: 15px;
 }
 
-    /* cart part start here */
 
 
 *{
@@ -165,7 +164,7 @@
 
 .cart-product{
     display: flex;
-    height: 130px; 
+    height: 130px; */
      border: 1px solid rgba(0, 0, 0, 0.736);
 }
 
@@ -196,7 +195,6 @@
 }
 
 /* cart button styling */
-
 .continue-shopping{
     display: flex;
     justify-content: space-between;
@@ -214,7 +212,6 @@
 }
 
 /* order section styling */
-
 .order-summary{
     margin-left: 10px;
     margin-top: 40px;
@@ -253,7 +250,7 @@
     padding-right: 10px;
 }
 
-/* js styling css */
+/* js styling csss */
 
 .img{
     height: 100%;
@@ -276,7 +273,7 @@
 }
 
 
-/* coupon css  */
+/* subhra css  */
 
 #coupon>div:last-child{
     margin-left: 20px;
@@ -323,9 +320,7 @@
 }
 
 
-
-/* yatin footer css */
-
+/* Jatin footere css */
 #containerone {
     display: grid;
     grid-template-columns: repeat(7, 1fr);

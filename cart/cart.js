@@ -13,35 +13,10 @@ var productArr= [
 
 
     },  
-    {
-        productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNAKSU5BNL.jpg",
-
-        productTitle:"Yonex Akayu Super 5 Badminton Shoes (Black/Neon Lime)",
-
-        productStrick:"₹3890",
-
-        productPrice:2299,
-        offer:41,
-        rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
+     ]
 
 
-    },  
-    {
-        productimg:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/YNAKSU5BNL.jpg",
-
-        productTitle:"Yonex Akayu Super 5 Badminton Shoes (Black/Neon Lime)",
-
-        productStrick:"₹3890",
-
-        productPrice:2299,
-        offer:41,
-        rating:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoT2xTPkYMFeXJ9aVDeqxZQQN9FJ6U1sisCn9Ekd1mVokUw_qnSslJPJVyB5UDKCn4w&usqp=CAU",
-
-
-    },  ]
-
-
-    // localStorage.setItem("cartdata",JSON.stringify(productArr))
+     localStorage.setItem("cartdata",JSON.stringify(productArr))
 
     var data=JSON.parse(localStorage.getItem("cartdata"));
      var sum=0;
@@ -73,7 +48,7 @@ var productArr= [
 
        
         var Delete=document.createElement("button");
-        Delete.innerText="Delete"
+        Delete.innerText="X"
         Delete.style.color="white"
         Delete.style.cursor="pointer"
         Delete.style.backgroundColor="red"
@@ -101,17 +76,25 @@ var productArr= [
 
       
   document.querySelector("#ulala").addEventListener("submit",applyCoupan);
-
+    var count=0
   function applyCoupan(){
       event.preventDefault();
         let coupon=document.querySelector("#coupon>div>div>input").value;
         if(coupon=="masai10"){
+            count++
+
             var total= sum+(sum*12)/100
             document.querySelector("#cart-total").innerText="₹ " + (total-(total*10)/100);
+            var discount_price=(total-(total*10)/100)
+            console.log(discount_price)
+            if(count==1){
+                localStorage.setItem("discount_price",discount_price)
+            }
+           
+            
         }else{
             alert("Invalid or Used Coupon")
         }
   }
 
-
-
+  
