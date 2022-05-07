@@ -1,7 +1,3 @@
-body>div>img{
-    height: 100px;
-    width: 250px
-}
 body>div{
     margin-left: 2%;
 }
@@ -15,4 +11,9 @@ body>div{
 }
 #otp>form>input:last-child{
     margin-left: 5px;
+    border: 0px;
+    background-color: chartreuse;
+}
+#backtop{
+    margin-right: 100px;
 }
