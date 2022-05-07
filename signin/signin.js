@@ -1,7 +1,7 @@
 
-    var signarr=JSON.parse(localStorage.getItem("signinprocess"))
+    var signarr=JSON.parse(localStorage.getItem("signinprocess"))||[];
     document.querySelector("#form").addEventListener("submit",signuppage)
-    var signarr=[];
+    
         function signuppage(){
             event.preventDefault();
             var obj={
