@@ -115,7 +115,14 @@
     padding: 15px;
 }
 
-
+.category>p>a{
+    color: black;
+    text-decoration: none;
+}
+.category>p>a:hover{
+    background-color: black;
+    color: white;
+}
 /* carousal sectionn styling */
 #container{
     width: 99%;
