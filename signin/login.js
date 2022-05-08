@@ -15,18 +15,26 @@ function sign(){
    
     
    //localStorage.setItem("signuppage2",JSON.stringify(signarr2))
-
-    for(var i=0;i<signarr.length;i++)
-    {
-    
+var count=0;
+     for(var i=0;i<signarr.length;i++)
+     {
+         if(count==0)
+    if(email2 == signarr[i].email&& passwrd2 ==signarr[i].passwrd)
+       {
+        
+alert("signup successfully")
+window.location.href="/home/home.html"
+count++;
+        
        
-        if(email2 == signarr[i].email&& passwrd2 ==signarr[i].passwrd)
-        {
-             alert("signup successfully");
-             window.location.href="/home/home.html";
-        }
-        else{
-            alert("invalid email or password");
-        }
+     }
     }
+    if(count==0)
+    {
+    if(email2 != signarr.email&& passwrd2 !=signarr.passwrd)
+    {
+        alert("invalid email ")
+        count++;
+    }
+}
 }

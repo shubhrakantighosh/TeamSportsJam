@@ -387,3 +387,5 @@ for (i = 0; i < dropdown.length; i++) {
     }
   });
 }
+// let p1=document.querySelector("#product>div:first-child>p");
+// p1.style.

@@ -231,7 +231,14 @@ margin-left: 30px;
     opacity: 1;
 }
 
-
+.category>p>a{
+    color: black;
+    text-decoration: none;
+}
+.category>p>a:hover{
+    background-color: black;
+    color: white;
+}
 
 
 
@@ -373,5 +380,3 @@ margin-left: 30px;
         
         padding-left: 8px;
       }
-      
- 

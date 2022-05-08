@@ -1,35 +1,19 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *{
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+a{
+  text-decoration: none; 
+  /* font-size: 30px; */
+    color: white;
+    /* text-decoration: none; */
+}
+/* #category>p{
+    color: rebeccapurple;
+}
+ */
 
 
 /* header part styling */
@@ -54,6 +38,14 @@
 
 .header-wrapper>div>i{
     margin-right: 10px;
+}
+.category>p>a{
+    color: black;
+    text-decoration: none;
+}
+.category>p>a:hover{
+    background-color: black;
+    color: white;
 }
 
 /* sportsjam line styling */
@@ -524,17 +516,16 @@ margin-left: 30px;
       /* <...........................................................fotter > */ 
 
       #containerone {
-        /* border: 1px solid black; */
         display: grid;
         grid-template-columns: repeat(7, 1fr);
         gap: 10px;
-        height: 190px;
+        height: 160px;
         background-color: #E1E1E1;
         text-align: center;
     }
     
-    #containerone>div>img {
-        height: 70px;
+    #containerone>div>.icon {
+        height: 25%;
         margin: 35px;
     }
     
@@ -546,28 +537,23 @@ margin-left: 30px;
     }
     
     .changeColor:hover {
-        color: orange;
+        color:coral;
     
     }
     
     #containerone>div>p {
         text-align: center;
-        margin-top: -25px;
+        margin-top: -20px;
     
     }
     
     #containertwo {
-        border: 1px solid black;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         height: 400px;
         background-color: #262626;
     }
     
-    #conatinertwo>div {
-        border: 1px solid;
-    
-    }
     
     #containertwo>div>p {
         margin-left: 10px;
@@ -579,25 +565,23 @@ margin-left: 30px;
         color: black;
     }
     
-    a {
-        color: white;
-    }
     
-    h5{
+    
+    #containertwo > div>h3 {
         color: white;
-        margin-left: 10px;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-size: 0px;
+        font-size: 15px;
+        margin: 20px 0px 20px 10px;
     }
     
-    a:hover {
+    #containertwo > div>p>a:hover {
         color: orangered;
     
     }
     
-    a {
+    #containertwo>div>p>a {
         text-decoration: none;
-        color:white;
+        color: rgba(255, 255, 255, 0.725);
     }
     
     .socialmedia {
@@ -620,4 +604,12 @@ margin-left: 30px;
     img :hover {
         color: orangered;
     
+    }
+    #containertwo > div>.with{
+        margin-top: 50px;
+         margin-bottom: -5px;
+    }
+    .footer-logo-content>.footer-logo{
+        
+       margin-left: 10px;
     }
