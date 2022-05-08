@@ -16,17 +16,6 @@ function sign(){
     
    //localStorage.setItem("signuppage2",JSON.stringify(signarr2))
 
-    for(var i=0;i<signarr.length;i++)
-    {
-    
-       
-        if(email2 == signarr[i].email&& passwrd2 ==signarr[i].passwrd)
-        {
-             alert("signup successfully");
-             window.location.href="/home/home.html";
-        }
-        else{
-            alert("invalid email or password");
-        }
     }
+}
 }
