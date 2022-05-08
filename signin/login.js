@@ -1,4 +1,4 @@
-
+// kmaarish
 var signarr=JSON.parse(localStorage.getItem("signinprocess"))
 console.log(signarr)
 document.querySelector("form").addEventListener("submit",sign);
