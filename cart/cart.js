@@ -19,6 +19,12 @@
       document.querySelector("#sub-total").innerText="₹" +"  "+ sum
       document.querySelector("#gst").innerText="₹ " + (sum*12)/100
       document.querySelector("#cart-total").innerText="₹ " + (sum+(sum*12)/100)
+
+///////////voucher function
+var discount_amount=(sum+(sum*12)/100)
+      function voucherFun(){
+        localStorage.setItem("voucher",discount_amount)
+      }
   
         var quantity = document.createElement("p")
         document.querySelector(".quantity").append(quantity)
@@ -78,5 +84,7 @@
             alert("Invalid or Used Coupon")
         }
   }
+
+  
 
   

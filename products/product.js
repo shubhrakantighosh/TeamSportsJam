@@ -816,10 +816,14 @@ function displayData(productArr){
         hover.setAttribute("id","hover")
         hover.innerText="Quick View"
         box.append(hover)
+<<<<<<< HEAD
+       
+=======
         box.addEventListener("click",myproduct);
         function myproduct(){
             window.location.href="/footer/productdetail.html"
         }
+>>>>>>> 4b7122abf608ae49ff6c1bde9efd433581fd6d7d
     
     
         //product-image part from here
