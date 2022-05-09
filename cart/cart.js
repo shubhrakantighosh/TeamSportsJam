@@ -21,10 +21,10 @@
       document.querySelector("#cart-total").innerText="₹ " + (sum+(sum*12)/100)
 
 ///////////voucher function
-var discount_amount=(sum+(sum*12)/100)
-      function voucherFun(){
-        localStorage.setItem("voucher",discount_amount)
-      }
+// var discount_amount=(sum+(sum*12)/100)
+//       function voucherFun(){
+//         localStorage.setItem("voucher",discount_amount)
+//       }
   
         var quantity = document.createElement("p")
         document.querySelector(".quantity").append(quantity)
