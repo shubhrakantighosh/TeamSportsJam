@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#new{
+    height:50px;
+    width:150px;
+    background: none;
+    border: 0ch;
+}
+
+
+#details{
+    display:flex;
+    margin:auto;
+    
+}
+#box{
+
+    display:flex;
+}
+button{
+    width:50px;
+    height:20px;
+    /* //margin-left: 380px; */
+    
+}
+#signbox{
+    
+width:450px;
+margin-left: 200px;
+font-size: 20px;
+font-family: sans-serif;
+}
+#bigbox{
+    width:450px;
+    height:450px;
+    border:5px solid rgb(191, 188, 188);
+    margin-left: 35%;
+    margin-top:200px;
+    background-color: white;
+}
+#email{
+    margin-left:30px;
+    font-size: 20px;
+    color:grey
+}
+#details2{
+    margin-left: 30px;
+    display:flex;
+    font-size: 20px;
+    color:grey
+}
+#email1{
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+    width:300px;
+    height:30px;
+border-color:rgb(216, 211, 211);
+    border-width: 1px;
+    border-radius: 5px;
+}
+#password1{
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+    border-color:rgb(216, 211, 211);
+    border-width: 1px;
+    border-radius: 5px;
+    width:300px;
+    height:30px;
+}
+#pswrd{
+ margin-right: 8px;
+  
+}
+#email{
+    margin-right: 8px; 
+}
+#user{
+    width:83%;
+    margin-top: 10px;
+    margin-left: 40px;
+    
+    display:flex;
+    justify-content: space-between;
+}
+#logo{
+    display:flex;
+    justify-content: space-between;
+}
+img{
+    width:70%;
+    margin-left:40px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+/* }
+#logo1{
+width:80%;
+    
+    margin-left:40px;
+    margin-top: 10px;
+    border-radius: 3px;  */
+
+
+#loginbutton{
+    color:white;
+    font-size: 20px;
+    margin-top: 10px;
+    width:83%;
+    height:40px;
+    margin-left: 40px;
+    background-color: orange;
+    border:0px;
+    border-radius: 3px;
+}
+#cross{
+    width:20px;
+    height:20px;
+    margin:0;
+}
+body{
+    background-image:url("img.png") 
+}

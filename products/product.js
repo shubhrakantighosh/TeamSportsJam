@@ -816,7 +816,14 @@ function displayData(productArr){
         hover.setAttribute("id","hover")
         hover.innerText="Quick View"
         box.append(hover)
+<<<<<<< HEAD
        
+=======
+        box.addEventListener("click",myproduct);
+        function myproduct(){
+            window.location.href="/footer/productdetail.html"
+        }
+>>>>>>> 4b7122abf608ae49ff6c1bde9efd433581fd6d7d
     
     
         //product-image part from here
@@ -860,9 +867,7 @@ function displayData(productArr){
         rating.style.display="inline-block"
         rating.style.position="absolute"
         rating.style.right="0px"
-        rating.style.bottom="50px"
-        
-    
+        rating.style.bottom="50px"    
        
         box.append(img,text1,text2,text3,text4,rating)
     
@@ -887,4 +892,10 @@ for (i = 0; i < dropdown.length; i++) {
       dropdownContent.style.display = "block";
     }
   });
+}
+let se=document.querySelector("#product>div>button");
+se.style.border="transparent";
+document.querySelector("#product>div>button").addEventListener("click",mylala);
+function mylala(){
+    window.location.href="/footer/productdetail.html"
 }
