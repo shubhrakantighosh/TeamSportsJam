@@ -816,6 +816,7 @@ function displayData(productArr){
         hover.setAttribute("id","hover")
         hover.innerText="Quick View"
         box.append(hover)
+       
     
     
         //product-image part from here
