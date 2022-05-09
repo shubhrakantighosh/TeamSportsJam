@@ -419,3 +419,7 @@ img :hover {
     
    margin-left: 10px;
 }
+.continue-shopping>button>a{
+    text-decoration: none;
+    color: white;
+}

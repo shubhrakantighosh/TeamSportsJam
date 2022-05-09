@@ -23,6 +23,7 @@ var count=0;
        {
         
 alert("signup successfully")
+window.location.href="/home/home.html"
 count++;
         
        
