@@ -1,6 +1,9 @@
+let voucher=JSON.parse(localStorage.getItem("discount_price"));
+// let discount_price.innerText=voucher;
+// console.log(discount_price);
 let h3=document.createElement("h3");
 let h5=document.createElement("h5");
-h3.innerText="₹ 2317.392";
+h3.innerText=voucher;
 h3.style.color="blue";
 h5.innerText="(Total Amount Payable)";
 h5.style.marginLeft="10px";
@@ -16,7 +19,7 @@ let ordernumber=document.createElement("h4");
 ordernumber.innerText="Order#: 42527";
 
 let h41=document.createElement("h4");
-h41.innerText="Total Amount ₹ 2317.392";
+h41.innerText=voucher;
 
 document.querySelector("#billinfobox>div:last-child").append(order,ordernumber,h41);
 
