@@ -63,9 +63,9 @@ var discount_amount=(sum+(sum*12)/100)
 
 
       
-  document.querySelector("#ulala").addEventListener("submit",applyCoupan);
+  // document.querySelector("#ulala").addEventListener("submit",applyCoupan);
     var count=0
-  function applyCoupan(){
+  function voucherFun(){
       event.preventDefault();
         let coupon=document.querySelector("#coupon>div>div>input").value;
         if(coupon=="masai10"){
