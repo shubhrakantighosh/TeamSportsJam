@@ -128,12 +128,12 @@ we really enjoyed this whole part of developing and had a learing experience and
 
 ### Team Members
 
-- **[Dhruv Gupta]**
+- **[Shubhrakanti Ghosh]**
 - **[SK Ismile]**
-- **[Mitresh]**
-- **[Ranajit Das]**
-- **[Himanshu Singh]**
-- **[Rajnikant Arya]**
+- **[Yatin Kumar]**
+- **[Md Arif Ali]**
+- **[Gautam Kumar]**
+- **[Karishma Chauhan]**
 
 ---
 
