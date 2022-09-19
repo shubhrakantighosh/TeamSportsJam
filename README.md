@@ -1,5 +1,5 @@
 # clone of TeamSportsJam 
-https://comforting-dodol-fb9ee8.netlify.app/
+https://heartfelt-cranachan-6d1c61.netlify.app/
 
 <h3>A web application for shopping at for men’s, women’s, and kids’ sports accessories.</h3>
 <h4>Features:</h4>
