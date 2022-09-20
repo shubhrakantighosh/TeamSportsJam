@@ -113,7 +113,7 @@ https://sportsjam2022.netlify.app/
 
 ### Netlify Link
 
-https://comforting-dodol-fb9ee8.netlify.app/
+https://sportsjam2022.netlify.app/
 ------
  
 <h1>WEBSITE USER FLOW ></h1>
