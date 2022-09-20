@@ -1,5 +1,5 @@
 # clone of TeamSportsJam 
-https://heartfelt-cranachan-6d1c61.netlify.app/
+https://sportsjam2022.netlify.app/
 
 
 
@@ -61,7 +61,7 @@ Enjoy your game!
 
 ### Netlify Link
  
-https://comforting-dodol-fb9ee8.netlify.app/
+https://sportsjam2022.netlify.app/
  
  
  ### Following are the Screenshots for the reference
