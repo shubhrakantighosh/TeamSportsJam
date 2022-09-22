@@ -1,0 +1,268 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* header part styling */
+
+.header-wrapper{
+    display: flex;
+    justify-content: right;
+    height: 40px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.header-wrapper>div{
+    margin-right: 30px;
+}
+
+.header-wrapper>div>a{
+    color: white;
+    text-decoration: none;
+}
+
+.header-wrapper>div>i{
+    margin-right: 10px;
+}
+
+/* sportsjam line styling */
+
+#header{
+   display: flex;
+   margin-top: 2%;
+}
+
+#header>.search>div{
+    width: 60%;
+    background-color: #fff;
+    height: 65%;
+    border: 2px solid rgba(128, 128, 128, 0.689);
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#header>div>div>input{
+    width: 90%;
+    height: 101%;
+    border-radius: 5px;
+    border: none;
+    margin: 0px;
+    padding-left: 10px;
+    
+
+}
+
+
+header>div>div>span{
+    background-color: white;
+    border: none;
+    margin-top: 7px;
+    color: #898989;
+}
+
+
+#header>div{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+#header>div:nth-child(1){
+     flex-grow: 1;
+}
+
+#header>div:nth-child(2){
+     flex-grow: 5;
+     display: flex;
+     
+     align-items: center;
+}
+
+#header>div:nth-child(3){
+     flex-grow: 1;
+     color: rgba(0, 0, 0, 0.729);
+}
+
+.cart{
+     margin: 15px;
+     font-weight: bold;
+     letter-spacing: -1px;
+}
+
+
+/* category part styling */
+
+.category{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 50px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    display: flex;
+}
+.category>p{
+   margin-left: 30px;
+   height: 100%;
+   padding: 15px;
+}
+.category>p:nth-child(1){
+    margin-left: 50px;
+}
+.category>p:hover{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+
+/* create account css part
+************************************************************************************************************* */
+#x{
+ color: #f49500;
+    margin-left: 50px;
+    justify-content: space-around;
+    align-items: baseline;
+    display: flex;
+    font-size: 22px;
+    
+padding-bottom: 0px;
+    font-family: open sans;
+    border-bottom: 2px solid #f49500;
+}
+#x>div{
+    margin-bottom: 0 px;
+}
+
+
+#info{
+    
+    width:40%;
+    height:400px;
+    font-size:16px;
+    text-align: left;
+    margin-left:100px;
+    margin-top: 50px;
+    padding-right: -50px;
+    color: #000;
+    
+    font-family: open sans;
+
+}
+#bigbox{
+    display:flex
+}
+#input{
+    margin-left: 150px;
+    width:50%;
+    height:400px;
+}
+#p{
+color: #000;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 10px 0 0 11px;
+    padding: 0 0 0 5px;
+}
+p, font {
+    font-family: open sans!important;
+}
+#pointers{
+    line-height: 30px;
+}
+#input{
+    margin-top:50px;
+    display:flex;
+
+}
+#subheading
+{
+    width:90px;
+    line-height: 40px;
+    margin-left: 40px;
+}
+#symbol{
+    text-align: left;
+    width:50px;
+    color:red;
+    line-height: 40px;
+    margin-left: -10px;
+}
+#name{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+#phone{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+#email{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+#password{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+#Confirmpassword{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+#data2{
+    width:50px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+    color:rgb(42, 39, 39);
+    
+}
+
+#phone{
+    width:290px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+}
+
+
+#submit{
+    width:350px;
+    margin-top:20px;
+    height:30px;
+    border:1px solid gray;
+    border-radius: 5px;
+    background-color: #f49500;
+    color: aliceblue;
+    font-weight: bold;
+}
+#matter{
+    line-height: 25px;
+}
+#pass{
+    line-height: 20px;
+}

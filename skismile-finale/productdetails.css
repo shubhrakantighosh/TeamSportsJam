@@ -1,0 +1,428 @@
+#main {
+    /* border:1px solid black; */
+    height: 600px;
+    width: 98%;
+    margin: auto;
+    display: flex;
+}
+
+#one {
+    width: 8%;
+    /* border: 1px solid orange; */
+    height: 100%;
+}
+
+#two {
+    width: 45%;
+    /* border: 1px solid green; */
+    height: 100%;
+    padding: 0px 20px 0px 0px;
+}
+
+#three {
+    width: 47%;
+    /* border: 1px solid blue; */
+    height: 100%;
+}
+
+#one>img {
+    width: 100%;
+    height: 80px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.rate {
+    float: left;
+    height: 10px;
+    padding: 0 5px;
+}
+
+.rate:not(:checked)>input {
+    position: absolute;
+    top: -9999px;
+}
+
+.rate:not(:checked)>label {
+    float: right;
+    width: 1em;
+    overflow: hidden;
+    white-space: nowrap;
+    cursor: pointer;
+    font-size: 30px;
+    color: #ccc;
+}
+
+.rate:not(:checked)>label:before {
+    content: '★ ';
+}
+
+.rate>input:checked~label {
+    color: #ffc700;
+}
+
+.rate:not(:checked)>label:hover,
+.rate:not(:checked)>label:hover~label {
+    color: #deb217;
+}
+
+.rate>input:checked+label:hover,
+.rate>input:checked+label:hover~label,
+.rate>input:checked~label:hover,
+.rate>input:checked~label:hover~label,
+.rate>label:hover~input:checked~label {
+    color: #c59b08;
+}
+
+#do>div>p {
+    margin-top: 5px;
+}
+
+#do {
+    display: flex;
+}
+
+hr {
+    margin: 15px;
+}
+
+#chey {
+    display: flex;
+}
+
+#chey>div {
+    margin-left: 14px;
+    height: 25px;
+    width: 40px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#char {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    font-size: 20px;
+}
+
+#char>div:nth-child(3) {
+    color: orangered;
+
+}
+
+#char>div:nth-child(1) {
+    text-decoration: line-through;
+    color: grey;
+
+}
+
+h2 {
+    font-family: sans-serif
+}
+
+#saat>button {
+    background-color: #FF6600;
+    color: white;
+    padding: 15px 45px;
+    border: none;
+    font-size: 15px;
+
+}
+
+#ath {
+    display: flex;
+    color: grey;
+    margin: 20px;
+}
+
+#ath>div {
+    margin-right: 40px;
+    margin-left: -20px;
+}
+
+#no {
+    display: flex;
+}
+
+#no>div {
+    margin-right: 20px;
+}
+
+#dus {
+    margin: 15px;
+    color: grey;
+}
+
+#dus>p {
+    margin-left: -20px;
+}
+
+#gera {
+    display: flex;
+
+}
+
+#gera>button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    margin-right: 10px;
+}
+
+#gera>p {
+    margin-left: 30px;
+}
+
+#bara {
+    margin-top: 20px;
+}
+
+p {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#chey>div:nth-child(3) {
+    color: black;
+    background-color: #FF6600;
+}
+
+#chey>div>p {
+    margin-top: -15px;
+    font-weight: 900;
+}
+
+/* Jatin footere css */
+#containerone {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    height: 160px;
+    background-color: #E1E1E1;
+    text-align: center;
+}
+
+#containerone>div>.icon {
+    height: 25%;
+    margin: 35px;
+}
+
+.icon {
+    width: 61px;
+    height: 70px;
+    margin: 35px;
+
+}
+
+.changeColor:hover {
+    color:coral;
+
+}
+
+#containerone>div>p {
+    text-align: center;
+    margin-top: -20px;
+
+}
+
+#containertwo {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 400px;
+    background-color: #262626;
+}
+
+
+#containertwo>div>p {
+    margin-left: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+}
+
+#containerone>div>p>a {
+    color: black;
+}
+
+
+
+#containertwo > div>h3 {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    margin: 20px 0px 20px 10px;
+}
+
+#containertwo > div>p>a:hover {
+    color: orangered;
+
+}
+
+#containertwo>div>p>a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.725);
+}
+
+.socialmedia {
+    height: 30px;
+    margin-left: 10px;
+
+}
+
+#ssl {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+#containerone>div>p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+img :hover {
+    color: orangered;
+
+}
+#containertwo > div>.with{
+    margin-top: 50px;
+     margin-bottom: -5px;
+}
+.footer-logo-content>.footer-logo{
+    
+   margin-left: 10px;
+}
+
+/* header */
+
+.header-wrapper {
+    display: flex;
+    justify-content: right;
+    height: 40px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.header-wrapper>div {
+    margin-right: 30px;
+}
+
+.header-wrapper>div>a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-wrapper>div>i {
+    margin-right: 10px;
+}
+
+/* sportsjam line styling */
+
+#header {
+    display: flex;
+    margin-top: 2%;
+}
+
+#header>.search>div {
+    width: 60%;
+    background-color: #fff;
+    height: 65%;
+    border: 2px solid rgba(128, 128, 128, 0.689);
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#header>div>div>input {
+    width: 90%;
+    height: 101%;
+    border-radius: 5px;
+    border: none;
+    margin: 0px;
+    padding-left: 10px;
+
+}
+
+#header>div>div>span {
+    background-color: white;
+    border: none;
+    margin-top: 7px;
+    color: #898989;
+}
+
+
+#header>div {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
+#header>div:nth-child(1) {
+    flex-grow: 1;
+}
+
+#header>div:nth-child(2) {
+    flex-grow: 5;
+    display: flex;
+    align-items: center;
+}
+
+#header>div:nth-child(3) {
+    flex-grow: 1;
+    color: rgba(0, 0, 0, 0.729);
+}
+
+.cart {
+    margin: 15px;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+
+/* category part styling */
+
+#category1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 50px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    display: flex;
+}
+
+#category1>h4 {
+    margin-left: 30px;
+    height: 40%;
+    padding: 15px;
+}
+
+#category1>h4:nth-child(1) {
+    margin-left: 50px;
+}
+
+#category1>h4:hover {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+#category1>h4>a {
+    color: black;
+    text-decoration: none;
+    padding: 13px;
+}
+
+#category1>h4>a:hover {
+    color: white;
+    background-color: black;
+}
+
