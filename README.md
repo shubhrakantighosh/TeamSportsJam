@@ -28,11 +28,11 @@ In case of any suggestion and query feel free to connect us.
  
  <h3>A web application for shopping at for men’s, women’s, and kids’ sports accessories.</h3>
 <h4>Features:</h4>
-<p>Social Sign-in/Sign-up
-<p>Product Gallery</p>
-<p>Cart </p>
-<p>Filter </p>
-<p>Payment</p>
+<li>Social Sign-in/Sign-up</li>
+<li>Product Gallery</li>
+<li>Cart </li>
+<li>Filter </li>
+<li>Payment</li>
 
 ### Project Description
  
