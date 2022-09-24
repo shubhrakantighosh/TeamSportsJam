@@ -95,9 +95,13 @@ https://sportsjam2022.netlify.app/
 
 
 - *Payment Page*
-![comforting-dodol-fb9ee8 netlify app_payment (1)](https://user-images.githubusercontent.com/101392872/191114540-83c7f3fd-f9f4-493f-b0ca-fabd87eb9da2.png)
+![sportsjam2022 netlify app_payment(Nest Hub Max)](https://user-images.githubusercontent.com/101392872/192115984-2eb9bf64-df76-446d-b1d8-2d6202e64100.png)
 
+- *Otp Validation*
+![sportsjam2022 netlify app_otp html(Nest Hub Max)](https://user-images.githubusercontent.com/101392872/192116001-62f786a6-97e3-4dfa-9503-061f82017c8e.png)
 
+- *Order Success Page*
+![sportsjam2022 netlify app_paymentsuccesspage html(Nest Hub Max)](https://user-images.githubusercontent.com/101392872/192116011-62cb0fdb-ed24-4028-a9fd-02a5fd7d4e5d.png)
 
 
 ---
@@ -121,7 +125,7 @@ https://sportsjam2022.netlify.app/
 the user flow that we tried to maintain is,
 <br/>
 home -> login/signup -> dashboard -> get started to products ->
-choose products -> Product detail page-> -> Add to Cart Page --> Payment Page
+choose products -> Product detail page-> -> Add to Cart Page --> Payment Page --> Otp Validation Page --> Order Success .
 
  <h1>TEAM MEMBERS AND MESSAGE></h1>
 we really enjoyed this whole part of developing and had a learing experience and have given our best efforts to bring the BEST thing as POSSIBLE.
