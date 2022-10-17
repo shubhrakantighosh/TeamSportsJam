@@ -1,5 +1,5 @@
 # clone of TeamSportsJam 
-https://sportsjam2022.netlify.app/
+[https://sportsjam2022.netlify.app/](https://inquisitive-cassata-1a809f.netlify.app/)
 
 
 
