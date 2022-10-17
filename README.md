@@ -1,5 +1,5 @@
 # clone of TeamSportsJam 
-[https://sportsjam2022.netlify.app/](https://inquisitive-cassata-1a809f.netlify.app/)
+https://team-sportjam.netlify.app
 
 
 
@@ -61,7 +61,7 @@ Enjoy your game!
 
 ### Netlify Link
  
-https://inquisitive-cassata-1a809f.netlify.app/
+https://team-sportjam.netlify.app
  
  
  ### Following are the Screenshots for the reference
@@ -117,7 +117,7 @@ https://inquisitive-cassata-1a809f.netlify.app/
 
 ### Netlify Link
 
-https://inquisitive-cassata-1a809f.netlify.app/
+https://team-sportjam.netlify.app
 ------
  
 <h1>WEBSITE USER FLOW ></h1>
