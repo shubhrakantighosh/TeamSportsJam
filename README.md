@@ -61,7 +61,7 @@ Enjoy your game!
 
 ### Netlify Link
  
-https://sportsjam2022.netlify.app/
+https://inquisitive-cassata-1a809f.netlify.app/
  
  
  ### Following are the Screenshots for the reference
@@ -117,7 +117,7 @@ https://sportsjam2022.netlify.app/
 
 ### Netlify Link
 
-https://sportsjam2022.netlify.app/
+https://inquisitive-cassata-1a809f.netlify.app/
 ------
  
 <h1>WEBSITE USER FLOW ></h1>
