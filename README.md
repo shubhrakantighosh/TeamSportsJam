@@ -1,5 +1,5 @@
 # clone of TeamSportsJam 
-https://team-sportjam.netlify.app
+https://kjhgf-ftygui9876-5hjgf8765-876sdfghjk.netlify.app/
 
 
 
@@ -117,7 +117,7 @@ https://team-sportjam.netlify.app
 
 ### Netlify Link
 
-https://team-sportjam.netlify.app
+https://kjhgf-ftygui9876-5hjgf8765-876sdfghjk.netlify.app/
 ------
  
 <h1>WEBSITE USER FLOW ></h1>
