@@ -114,10 +114,6 @@ https://team-sportjam.netlify.app
 ---
 
 ------
-
-### Netlify Link
-
-https://kjhgf-ftygui9876-5hjgf8765-876sdfghjk.netlify.app/
 ------
  
 <h1>WEBSITE USER FLOW ></h1>
