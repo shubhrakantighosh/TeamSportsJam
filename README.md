@@ -58,10 +58,6 @@ Enjoy your game!
 -Team Sportsjam.in
 
 ---
-
-### Netlify Link
- 
-https://team-sportjam.netlify.app
  
  
  ### Following are the Screenshots for the reference
